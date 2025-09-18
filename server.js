@@ -7,7 +7,7 @@ const PORT = 3000;
 
 // Dummy user (replace with DB or hashed passwords in real life)
 const users = [
-  { email: "test@example.com", password: "123456" },
+  { email: "test@example.com", password: "234" },
   { email: "user@example.com", password: "password" },
 ];
 
